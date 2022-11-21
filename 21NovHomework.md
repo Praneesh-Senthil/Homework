@@ -1,4 +1,4 @@
-Days of the week
+# Days of the week
 1. Sunday
 2. Monday
 3. Tuesday
